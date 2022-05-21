@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: mypool
+pool: Default
 
 steps:
 - task: ArchiveFiles@2
